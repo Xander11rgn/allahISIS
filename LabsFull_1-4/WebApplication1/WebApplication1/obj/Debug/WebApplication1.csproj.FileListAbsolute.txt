@@ -1,0 +1,226 @@
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Антон\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\xande\Desktop\ИСИС\4 лаба\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
